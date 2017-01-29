@@ -57,7 +57,7 @@
     <enableStreamingApi>true</enableStreamingApi>
     <label>myobj</label>
     <nameField>
-        <label>myobj Name</label>
+        <label>myobj_1 Name</label>
         <type>Text</type>
     </nameField>
     <pluralLabel>myobjs</pluralLabel>
